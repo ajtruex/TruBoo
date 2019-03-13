@@ -1,0 +1,22 @@
+{
+	"name": "truboo",
+	"displayName": "TruBoo",
+	"description": "Material Ocean Next based theme with tweaks",
+	"version": "0.0.2",
+	"publisher": "TruBoo",
+	"engines": {
+		"vscode": "^1.29.0"
+	},
+	"categories": [
+		"Themes"
+	],
+	"contributes": {
+		"themes": [
+			{
+				"label": "TruBoo",
+				"uiTheme": "vs-dark",
+				"path": "./themes/TruBoo-color-theme.json"
+			}
+		]
+	}
+}
